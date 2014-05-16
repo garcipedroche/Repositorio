@@ -1,5 +1,12 @@
 package vehiculos;
-
+/**
+ * Clase coche que hereda de vehiculo
+ * Comentada por Jose Manuel Garcia Valverde
+ *
+ * @author Miguel Rodriguez
+ * 
+ *  
+*/
 public class Coche extends Vehiculo {
 	private static final int MIN_PLAZAS = 2;
 	private static final int MAX_PLAZAS = 9;
