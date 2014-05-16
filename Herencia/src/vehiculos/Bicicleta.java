@@ -1,5 +1,13 @@
 package vehiculos;
 
+/**
+ * Clase Bicicleta. Hereda de la clase vehiculo
+ *
+ * Esta clase ha sido documentada por Jose Manuel Garcia Valverde
+ *
+ * @author Miguel Rodriguez Lopez
+ */
+
 public class Bicicleta extends Vehiculo {
 	private static final int MIN_PLAZAS = 1;
 	private static final int MAX_PLAZAS = 2;
